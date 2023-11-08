@@ -1,5 +1,5 @@
 # Introduction
-This is a new digitized edition of the Admonito Generalis as prepared by Cole Taylor, a History Ph.D. Student at Fordham University. This github serves as a repository of the .xml and .odd files necessary for deployment to TEIPublisher as well as the code and files that constructed the .xml edition. As I learn more coding, I plan on having a full display of the text using TEIPublisher embedded within a website which can accurately display the text as intended. This project started as a final assignment for Dr. Brian Reilly's course _Editing Medieval Texts_ at Fordham University. For more information on my methods, the context of the text, and the scholarly tradition of the text, please consult the wiki for this repository.
+This is a new digitized edition of the Admonito Generalis as prepared by Cole Taylor, a History Ph.D. Student at Fordham University. This github serves as a repository of the .xml and .odd files necessary for deployment to TEIPublisher as well as the code and files that constructed the .xml edition. As I learn more coding, I plan on having a full display of the text using TEIPublisher embedded within a website which can accurately display the text as intended. This project started as a final assignment for Dr. Brian Reilly's course _Editing Medieval Texts_ at Fordham University. What follows is how to use the files, my research methods, the historical context of the text, and the scholarly tradition of the text. For these subsections, full bibliographic information is provided for corresponding references in the bibliography subsection.
 # Using the Files
 If you would like a more visual representation of the text, outside of reading .xml code, follow the steps below:
   1. Navigate to https://teipublisher.com/exist/apps/tei-publisher/index.html
@@ -12,5 +12,9 @@ If you would like a more visual representation of the text, outside of reading .
   8. You should now have a visual representation of the edition that represents what I will (eventually) have hosted on a website, removing all these steps to access a visual version of the edition.
 
 The python file provided can also be used to run your own calculations of Euclidean distance, simply change the Matrix and MatrixNames to your preference as well as the matrices themselves with their corresponding points. For example, change V = [0,1,1....] to the corresponding point and sigla, and change the matrix = [V, M3, P3G] to the sigla you use to identify the point. Then, change matrixNames = ['M3', 'V', 'P3G'] to the corresponding sigla. Be sure to keep the apostrophes and commas that define the sigla.
+#Research Methods
+#Historical Context
+#Scholarly Tradition
+#Bibliography
 # Credits
 I am grateful for Frances Eshleman, History Ph.D. Student at Fordham, for providing the documentaiton on creating .odd files and the various ways to reconfigure the display of text. I also must give credit to the Siege of Antioch Project Team at Fordham University for teaching me the basic formatting of an .xml file, and I largely follow the code guidelines established by this project to recreate the Admonito Generalis. The python code for calculating Euclidean distance between points comes from 2LT Dylan Taylor, MSECE at Purdue University.
