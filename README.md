@@ -10,6 +10,8 @@ If you would like a more visual representation of the text, outside of reading .
   6. You should now see the edition on the screen, click the title of the edition to access the digital edition.
   7. Click on the three lines to the far right (below where it says logged-in as tei-demo) and under 'select ODD' select the odd you created and then click out to return to the edition.
   8. You should now have a visual representation of the edition that represents what I will (eventually) have hosted on a website, removing all these steps to access a visual version of the edition.
+
+The python file provided can also be used to run your own calculations of Euclidean distance, simply change the Matrix and MatrixNames to your preference as well as the matrices themselves with their corresponding points. For example, change V = [0,1,1....] to the corresponding point and sigla, and change the matrix = [V, M3, P3G] to the sigla you use to identify the point. Then, change matrixNames = ['M3', 'V', 'P3G'] to the corresponding sigla. Be sure to keep the apostrophes and commas that define the sigla.
 # Context of the Text
 # Method
 # Credits
