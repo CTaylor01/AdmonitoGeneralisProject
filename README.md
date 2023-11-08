@@ -1,4 +1,4 @@
-# The Admonito Generalis Project
+# Introduction
 A New Digitized Edition of the Admonito Generalis as prepared by Cole Taylor, History Ph.D. Student at Fordham University. This github serves as a repository of the .xml and .odd files necessary for TEI Publishing. As I learn more coding, I plan on having a full display of the text using TEI Publisher embedded within a website which can accurately display the text as intended. For now, it is simply the .xml code and marked up documents along with the .odd style guidelines.
 # Using the Files
 # Context of the Text
