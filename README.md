@@ -12,9 +12,9 @@ If you would like a more visual representation of the text, outside of reading .
   8. You should now have a visual representation of the edition that represents what I will (eventually) have hosted on a website, removing all these steps to access a visual version of the edition.
 
 The python file provided can also be used to run your own calculations of Euclidean distance, simply change the Matrix and MatrixNames to your preference as well as the matrices themselves with their corresponding points. For example, change V = [0,1,1....] to the corresponding point and sigla, and change the matrix = [V, M3, P3G] to the sigla you use to identify the point. Then, change matrixNames = ['M3', 'V', 'P3G'] to the corresponding sigla. Be sure to keep the apostrophes and commas that define the sigla.
-#Research Methods
-#Historical Context
-#Scholarly Tradition
-#Bibliography
+# Research Methods
+# Historical Context
+# Scholarly Tradition
+# Bibliography
 # Credits
 I am grateful for Frances Eshleman, History Ph.D. Student at Fordham, for providing the documentaiton on creating .odd files and the various ways to reconfigure the display of text. I also must give credit to the Siege of Antioch Project Team at Fordham University for teaching me the basic formatting of an .xml file, and I largely follow the code guidelines established by this project to recreate the Admonito Generalis. The python code for calculating Euclidean distance between points comes from 2LT Dylan Taylor, MSECE at Purdue University.
