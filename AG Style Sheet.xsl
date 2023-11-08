@@ -1,5 +1,4 @@
 <?xml-model href="teipublisher_odds.xsd"?>
-<?xml-stylesheet type=”text/xsl” href=”AG_Style_Sheet.xsl”?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:pb="http://teipublisher.com/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
