@@ -4,4 +4,4 @@ A New Digitized Edition of the Admonito Generalis as prepared by Cole Taylor, Hi
 # Context of the Text
 # Method
 # Credits
-I am grateful for Frances Eshleman for providing the documentaiton on creating .odd files and the various ways to reconfigure the display of text. I also must give credit to the Siege of Antioch Project Team at Fordham University for teaching me the basic formatting of an .xml file, and I largely follow the code guidelines established by this project to recreate the Admonito Generalis.
+I am grateful for Frances Eshleman for providing the documentaiton on creating .odd files and the various ways to reconfigure the display of text. I also must give credit to the Siege of Antioch Project Team at Fordham University for teaching me the basic formatting of an .xml file, and I largely follow the code guidelines established by this project to recreate the Admonito Generalis. The python code for calculating Euclidean distance between points comes from 2LT Dylan Taylor, MSECE at Purdue University.
