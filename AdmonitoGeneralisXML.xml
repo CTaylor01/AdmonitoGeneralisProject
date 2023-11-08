@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Admonito Generalis</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Digital Edition</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>eXistSolutions GmbH</publisher>
+                <availability>
+                    <licence target="https://www.gnu.org/licenses/gpl-3.0.en.html">Distributed under GNU General Public License</licence>
+                    <p>Copyright 2017 <ref target="http://existsolutions.com">eXistSolutions GmbH</ref></p>
+                    <p>This program is free software: you can redistribute it and/or modify
+                        it under the terms of the GNU General Public License as published by
+                        the Free Software Foundation, either version 3 of the License, or
+                        (at your option) any later version.</p>
+                    <p>This program is distributed in the hope that it will be useful,
+                        but WITHOUT ANY WARRANTY; without even the implied warranty of
+                        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+                        GNU General Public License for more details.</p>
+                </availability>
+            </publicationStmt>
+            <encodingDesc>A Digital edition of the Capitula of the Admonito Generalis as prescribed in six manuscripts:
+                <sourceDesc>
+                    <ab>
+                        <listWit>
+                            <witness xml:id="M1">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <msName>Munich Clm. 14468,</msName>
+                                    </msIdentifier>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="V">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <msName>Vat. Lat. 5751,</msName>
+                                    </msIdentifier>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="G">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <msName>Goethe Memb. I 84,</msName>
+                                    </msIdentifier>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="M2">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <msName>Munich Clm. 19416,</msName>
+                                    </msIdentifier>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="P1">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <msName>Paris Lat. 4628 A,</msName>
+                                    </msIdentifier>
+                                </msDesc>
+                            </witness>
+                            <witness xml:id="P2">
+                                <msDesc>
+                                    <msIdentifier>
+                                        <msName>Paris Lat. 10758.</msName>
+                                    </msIdentifier>
+                                </msDesc>
+                            </witness>
+                        </listWit>
+                    </ab>
+                </sourceDesc>
+            </encodingDesc>
+            <profileDesc>The text is written in Latin, as reconstructed by Cole Taylor, a History Ph.D. student at Fordham University.</profileDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="Sources">
+            <head>Manuscript Sigla</head>  
+                <p>
+                    <hi>M1</hi>, Munich Clm. 14468
+                </p>
+                <p>
+                    <hi>V</hi>,  Vat. Lat. 5751
+                </p>
+                <p>
+                    <hi>G</hi>,  Goethe Memb. I. 84
+                </p>
+                <p>
+                    <hi>M2</hi>, Munich Clm. 19416
+                </p>
+                <p>
+                    <hi>P1</hi>, Paris Lat. 4628 A
+                </p>
+                <p>
+                    <hi>P2</hi>,  Paris Lat. 10758
+                </p>
+            </div>
+            <div type="Text" n="1">
+                <head>The Capitula</head>
+                <div1 type="capitula">
+                    <head><hi>I.</hi></head>
+                    <p>
+                    <app>
+                        <lem wit="#M1, #M2, #P1, #P2">Omnibus.</lem>
+                        <rdg wit="#V"><i>om.</i></rdg>
+                        <rdg wit="#G"><i>om.</i></rdg>
+                    </app> Sunt enim aliqui
+                    <app>
+                        <lem wit="#M1, #V, #M2, #P1, #P2">culpis</lem>
+                        <rdg wit="#G">qui culpis</rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #V, #G, #P1, #P2">exigentibus</lem>
+                        <rdg wit="#M2">et exigentibus</rdg>
+                    </app> ab episcopo
+                    <app>
+                        <lem wit="#M1, #V, #M2, #P1, #P2">proprio</lem>
+                        <rdg wit="#G"><i>om.</i></rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #G, #P2">excommunicantur</lem>
+                        <rdg wit="#V">excomunicant</rdg>
+                        <rdg wit="#P1"><supplied>excommmunicantur</supplied></rdg>
+                    </app> et ab aliis ecclesiasticis
+                    <app>
+                        <lem wit="#V, #M2, #P1, #P2">uel</lem>
+                        <rdg wit="#M1">ut</rdg>
+                        <rdg wit="#G">ut</rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #V, #M2, #P1, #P2">laicis</lem>
+                        <rdg wit="#G"><i>om.</i></rdg>
+                    </app> praesumptiose in
+                    <app>
+                        <lem wit="#M1, #V">communione</lem>
+                        <rdg wit="#G"><supplied>comunione</supplied></rdg>
+                        <rdg wit="#M2">communionem</rdg>
+                        <rdg wit="#P1">communionem</rdg>
+                        <rdg wit="#P2">communionem</rdg>
+                    </app> accipiuntur. Quod omnino sanctum
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2, #P1">nicenum</lem>
+                        <rdg wit="#P2">nicaeni</rdg>
+                    </app> concilium
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2, #P2">simul</lem>
+                        <rdg wit="#P1"><i>om.</i></rdg>
+                    </app> et
+                    <app>
+                        <lem wit="#M1, #V">calcedonense</lem>
+                        <rdg wit="#G">calcidonensem</rdg>
+                        <rdg wit="#M2">calcidonensem</rdg>
+                        <rdg wit="#P1">calcidonense</rdg>
+                        <rdg wit="#P2">calcidonensem</rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2">necnon</lem>
+                        <rdg wit="#P1"><i>om.</i></rdg>
+                        <rdg wit="#P2">uel non</rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2, #P2">et</lem>
+                        <rdg wit="#P1"><i>om.</i></rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2, #P2">antio</lem>
+                        <rdg wit="#P1"><i>om.</i></rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2">cenum</lem>
+                        <rdg wit="#P1"><i>om.</i></rdg>
+                        <rdg wit="#P2">caenum</rdg>
+                    </app> atque
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2, #P1">sardi</lem>
+                        <rdg wit="#P2">sardon</rdg>
+                    </app> cense fieri prohibent. 
+                    </p>
+                </div1>
+                <div2 type="capitula">
+                    <head><hi>II.</hi></head>
+                    <p>
+                    <app>
+                        <lem wit="#V, #G">Item</lem>
+                        <rdg wit="#M1">Inniceno concilio. Item</rdg>
+                        <rdg wit="#M2">Episcopo item</rdg>
+                        <rdg wit="#P1">Ad Sacer do Ies item</rdg>
+                        <rdg wit="#P2">Ad Sacer do Ies item</rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #M2, #P1, #P2">enim</lem>
+                        <rdg wit="#V"><i>om.</i></rdg>
+                        <rdg wit="#G"><i>om.</i></rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2, #P2">habet</lem>
+                        <rdg wit="#P1">habetur</rdg>
+                    </app> in eodem
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2, #P1">concilio</lem>
+                        <rdg wit="#P2">concilium</rdg>
+                    </app> ut eorum qui
+                    <app>
+                        <lem wit="#M1, #G, #M2, #P1, #P2">ad</lem>
+                        <rdg wit="#V"><i>om.</i></rdg>
+                    </app> ordinandum
+                    <app>
+                        <lem wit="#M1, #V, #M2, #P1, #P2">veniunt</lem>
+                        <rdg wit="#G"><supplied>venanitum veniunt</supplied></rdg>
+                    </app> fides et
+                    <app>
+                        <lem wit="#V, #G, #M2, #P1, #P2">vita</lem>
+                        <rdg wit="#M1">vitia</rdg>
+                    </app> prius ab episcopo
+                    <app>
+                        <lem wit="#V, #G, #M2, #P1, #P2">diligenter</lem>
+                        <rdg wit="#M1">diligentur</rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #V, #M2, #P1, #P2">discutiatur</lem>
+                        <rdg wit="#G">discutiantur</rdg>
+                    </app> et sic ordinentur.
+                    </p>
+                </div2>
+                <div3 type="capitula">
+                    <head><hi>III.</hi></head>
+                    <p>
+                    <app>
+                        <lem wit="#M1, #M2, #P1, #P2">Omnibus.</lem>
+                        <rdg wit="#V"><i>om.</i></rdg>
+                        <rdg wit="#G"><i>om.</i></rdg>
+                    </app> Item in eodem concilio necnon
+                    <app>
+                        <lem wit="#M1, #V, #M2, #P1, #P2">et</lem>
+                        <rdg wit="#G"><i>om.</i></rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #G, #M2 #P1, #P2">antio</lem>
+                        <rdg wit="#V">in antio</rdg>
+                    </app> ceno simul et
+                    <app>
+                        <lem wit="#V, #G">calcidonense</lem>
+                        <rdg wit="#M2">calcedonense</rdg>
+                        <rdg wit="#M1">in calcedonense</rdg>
+                        <rdg wit="#P1">in calcidonense</rdg>
+                        <rdg wit="#P2">in calcidonensae</rdg>
+                    </app> ut
+                    <app>
+                        <lem wit="#V, #G, #M2, #P1">fugitiui</lem>
+                        <rdg wit="#M1">fugitium</rdg>
+                        <rdg wit="#P2">fugiti</rdg>
+                    </app> clerici et peregrini anullo recipiantur
+                    <app>
+                        <lem wit="#V, #G, #M2, #P1, #P2">nec</lem>
+                        <rdg wit="#M1"><supplied>net</supplied></rdg>
+                    </app> ordinentur sine
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2, #P1">commendati</lem>
+                        <rdg wit="#P2">commenda</rdg>
+                    </app> cus litteris et sui episcopi
+                    <app>
+                        <lem wit="#M1, #G, #M2, #P2">ut</lem>
+                        <rdg wit="#V">uel</rdg>
+                        <rdg wit="#P1">uel</rdg>
+                    </app> ab batis
+                    <app>
+                        <lem wit="#M1, #V, #M2, #P1">licentia.</lem>
+                        <rdg wit="#G">licentiam</rdg>
+                        <rdg wit="#P2">licentiam</rdg>
+                    </app>
+                    </p>
+                </div3>
+                <div4 type="capitula">
+                    <head><hi>IV.</hi></head>
+                    <p>
+                    <app>
+                        <lem wit="#M1, #M2">Omnibus.</lem>
+                        <rdg wit="#V"><i>om.</i></rdg>
+                        <rdg wit="#G"><i>om.</i></rdg>
+                        <rdg wit="#P1">Ad sacerdote</rdg>
+                        <rdg wit="#P2">Ad solus sacerdote</rdg>
+                    </app> Item in eodem
+                    <app>
+                        <lem wit="#M1, #M2, #P1, #P2">synodo</lem>
+                        <rdg wit="#V">sinodu</rdg>
+                        <rdg wit="#G">sinodo</rdg>
+                    </app> inter dictum est
+                    <app>
+                        <lem wit="#M1, #G, #P1">probis</lem>
+                        <rdg wit="#V"><supplied>probris</supplied></rdg>
+                        <rdg wit="#M2">presbiteris</rdg>
+                        <rdg wit="#P2"><supplied>probris</supplied></rdg>
+                    </app> et diaconibus
+                    <app>
+                        <lem wit="#M1, #G, #M2">ut</lem>
+                        <rdg wit="#V">uel</rdg>
+                        <rdg wit="#P1">uel</rdg>
+                        <rdg wit="#P2">uel</rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #V, #M2, #P1, #P2">omnibus</lem>
+                        <rdg wit="#G"><supplied>omibus</supplied></rdg>
+                    </app> qui in clero sunt mulierem
+                    <app>
+                        <lem wit="#M1, #V, #G">habere</lem>
+                        <rdg wit="#M2"><supplied>hebere</supplied></rdg>
+                        <rdg wit="#P1">non habere</rdg>
+                        <rdg wit="#P2">non habere</rdg>
+                    </app> in
+                    <app>
+                        <lem wit="#M1, #V, #M2, #P1, #P2">domo</lem>
+                        <rdg wit="#G">domum</rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #V, #P1, #P2">sua</lem>
+                        <rdg wit="#G">suam</rdg>
+                        <rdg wit="#M2">suoc</rdg>
+                    </app> propter 
+                    <app>
+                        <lem wit="#M1,#V, #M2">suspitionem</lem>
+                        <rdg wit="#G">suspicionem</rdg>
+                        <rdg wit="#P1">suspicionem</rdg>
+                        <rdg wit="#P2">suspicionem</rdg>
+                    </app> nisi matrem aut sororem 
+                    <app>
+                        <lem wit="#M1, #G, #M2, #P1">ut</lem>
+                        <rdg wit="#V">uel</rdg>
+                        <rdg wit="#P2">uel</rdg>
+                    </app> eas tantum personas
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2, #P1">quae</lem>
+                        <rdg wit="#P2">qui</rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #G, #M2">suspitiones</lem>
+                        <rdg wit="#V">suspitionem</rdg>
+                        <rdg wit="#P1">suspicionem</rdg>
+                        <rdg wit="#P2">suspicionem</rdg>
+                    </app> effugiunt.
+                    </p>
+                </div4>
+                <div5 type="capitula">
+                    <head><hi>V.</hi></head>
+                    <p>
+                    <app>
+                    </app>
+                    </p>
+                </div5>
+            </div>
+        </body>
+    </text>
+</TEI>
