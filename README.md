@@ -8,7 +8,7 @@ If you would like a more visual representation of the text, outside of reading .
   4. CTRL+A and delete the text, then copy the text from the style sheet provided by this repo and paste all of it into the file, be sure to click save at the top.
   5. Navigate back to the TEI Publisher tab and click on 'Playground' and click the Upload button on the right, select the Admonito Generalis.xml file to upload
   6. You should now see the edition on the screen, click the title of the edition to access the digital edition.
-  7. Click on the three lines to the far right (below where it says logged-in as tei-demo) and under 'select ODD' select the odd you created and then click out to return to the edition.
+  7. Click on the three lines to the far right (below where it says logged-in as tei-demo) and under 'select ODD' select the .odd you created and then click out to return to the edition.
   8. You should now have a visual representation of the edition that represents what I will (eventually) have hosted on a website, removing all these steps to access a visual version of the edition.
   9. Do note that the tei-demo account is a **public** account, meaning that other people can view and access the .odd and .xml that you upload as part of these steps. In order to keep the tei-demo account clean, I recommend you remove the uploaded .xml and .odd files after you have finished viewing the text.
 
