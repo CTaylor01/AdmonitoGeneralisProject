@@ -346,7 +346,7 @@
                     <head><hi>V.</hi></head>
                     <p>
                     <app>
-                        <lem wit="#M1, #M2, #P1, P2">Omnibus.</lem>
+                        <lem wit="#M1, #M2, #P1, #P2">Omnibus.</lem>
                         <rdg wit="#V"><i>om.</i></rdg>
                         <rdg wit="#G"><i>om.</i></rdg>
                     </app>
