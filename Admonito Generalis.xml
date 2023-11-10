@@ -351,7 +351,7 @@
                         <rdg wit="#G"><i>om.</i></rdg>
                     </app>
                     <app>
-                        <lem wit="#M1, #G, #M2, #P1, #P2">Item</lem>
+                        <lem wit ="#M1, #G, #M2, #P1, #P2">Item</lem>
                         <rdg wit="#V"><i>om.</i></rdg>
                     </app> in eodem
                     <app>
@@ -368,8 +368,127 @@
                         <lem wit="#M1, #V, #G, #P1, #P2">ipse dominus</lem>
                         <rdg wit="#M2">dominus ipse</rdg>
                     </app> praecepit omnino omnibus inter dictum est adusuram aliquid
+                    <app>
+                        <lem wit="#M1, #V, #G">darem.</lem>
+                        <rdg wit="#M2">dare.</rdg>
+                        <rdg wit="#P1">dare.</rdg>
+                        <rdg wit="#P2">dare.</rdg>
+                    </app>
                     </p>
                 </div5>
+                <div6 type="capitulum">
+                    <head><hi>VI.</hi></head>
+                    <p>
+                    <app>
+                        <lem wit="#M1, #M2">Episcopis</lem>
+                        <rdg wit="#V"><i>om.</i></rdg>
+                        <rdg wit="#G"><i>om.</i></rdg>
+                        <rdg wit="#P1">Ad Sacerdotes.</rdg>
+                        <rdg wit="#P2">Ad Sacerdotes.</rdg>
+                    </app> Auditum est aliquos probro
+                    <app>
+                        <lem wit="#V, #G, #M2, #P1, #P2">missa</lem>
+                        <rdg wit="#M1">missam</rdg>
+                    </app> celebrare et non quod omnino incanonibus apostolorum inter dictum esse legitur
+                    <app>
+                        <lem wit="#M1, #G, #M2, #P1">ut</lem>
+                        <rdg wit="#V">uel</rdg>
+                        <rdg wit="#P2">uel</rdg>
+                    </app> quomodo dicere
+                    <app>
+                        <lem wit="#M1, #G, #M2, #P1, #P2">recte</lem>
+                        <rdg wit="#V"><i>om.</i></rdg>
+                    </app> potest sinon communicauerit
+                    <app>
+                        <lem wit="#M1, #G, #M2, #P1, #P2">sumpsimus</lem>
+                        <rdg wit="#V">supsimus</rdg>
+                    </app> domine sacramata. Haec uero
+                    <app>
+                        <lem wit="#M1, #M2, #P2">prosingula</lem>
+                        <rdg wit="#V">persingula</rdg>
+                        <rdg wit="#G">persingula</rdg>
+                        <rdg wit="#P2">persingula</rdg>
+                    </app> capitula
+                    <app>
+                        <lem wit="#V, #G, #M2">instituta</lem>
+                        <rdg wit="#M1">institutis</rdg>
+                        <rdg wit="#P1">institutis</rdg>
+                        <rdg wit="#P2">instatutis</rdg>
+                    </app> niceni concilii legere potestis seu
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2">in</lem>
+                        <rdg wit="#P1">et in</rdg>
+                        <rdg wit="#P2">et in</rdg>
+                    </app> aliis secorum
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2">patrum</lem>
+                        <rdg wit="#P1">patruum</rdg>
+                        <rdg wit="#P2">patruum</rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #M2, #P1, #P2">synoda</lem>
+                        <rdg wit="#V">sinoda</rdg>
+                        <rdg wit="#G">sindoa</rdg>
+                    </app> libus edictis.
+                    </p>
+                </div6>
+                <div7 type="capitulum">
+                    <head><hi>VII.</hi></head>
+                    <p>
+                    <app>
+                        <lem wit="#M1, #M2, #P1, #P2">Omnibus.</lem>
+                        <rdg wit="#V"><i>om.</i></rdg>
+                        <rdg wit="#G"><i>om.</i></rdg>
+                    </app> In antio 
+                    <app>
+                        <lem wit="#V, #G, #M2, #P1, #P2">ceno</lem>
+                        <rdg wit="#M1">cheno</rdg>
+                    </app> concilio quod his
+                    <app>
+                        <lem wit="#V, #G, #P2">quidam</lem>
+                        <rdg wit="#M1">qui</rdg>
+                        <rdg wit="#M2">quidamp</rdg>
+                        <rdg wit="#P1">quidamp</rdg>
+                    </app> natisunt a 
+                    <app>
+                        <lem wit="#M1, #M2, #P1, #P2">synodo</lem>
+                        <rdg wit="#V">sinodu</rdg>
+                        <rdg wit="#G">sinodo</rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #G, #M2, #P1">ut</lem>
+                        <rdg wit="#V">uel</rdg>
+                        <rdg wit="#P2">uel</rdg>
+                    </app> a suo episcopo et postea ministrare praesumunt procipitur ut nullus audeat
+                    <app>
+                        <lem wit="#G, #M2, #P1, #P2">ei</lem>
+                        <rdg wit="#M1"><i>om.</i></rdg>
+                        <rdg wit="#V"><i>om.</i></rdg>
+                    </app> communicare siquis
+                    <app>
+                        <lem wit="#M1, #V, #M2, #P1, #P2">uero</lem>
+                        <rdg wit="#G"><i>om.</i></rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #V, #G, #M2">ei</lem>
+                        <rdg wit="#P1"><i>om.</i></rdg>
+                        <rdg wit="#P2"><i>om.</i></rdg>
+                    </app>
+                    <app>
+                        <lem wit="#M1, #G, #M2">communicat</lem>
+                        <rdg wit="#V">communicauerit</rdg>
+                        <rdg wit="#P1">communicauerit</rdg>
+                        <rdg wit="#P2">communicauerit</rdg>
+                    </app> simili sententia subiaceat sicut et 
+                    <app>
+                        <lem wit="#M1, #M2">damnatus.</lem>
+                        <rdg wit="#V">dapnatus.</rdg>
+                        <rdg wit="#G">danatus.</rdg>
+                        <rdg wit="#P1">dapnatus.</rdg>
+                        <rdg wit="#P2">danatus.</rdg>
+                    </app>
+                    </p>
+                </div7>
             </div>
         </body>
     </text>
