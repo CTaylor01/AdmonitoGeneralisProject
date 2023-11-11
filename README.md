@@ -1,6 +1,6 @@
 # Introduction
 This is a new digitized edition of the first seven _capitula_ of the Admonito Generalis as prepared by Cole Taylor, a History Ph.D. Student at Fordham University. This github serves as a repository of the .xml and .odd files necessary for deployment to TEIPublisher as well as the code and files that constructed the .xml edition. As I learn more coding, I plan on having a full display of the text using TEIPublisher embedded within a website which can accurately display the text as intended. This project serves as the final assignment for Dr. Brian Reilly's course _Editing Medieval Texts_ at Fordham University. What follows is how to use the files, my research methods, the historical context of the text, and the scholarly tradition of the text. For these subsections, full bibliographic information is provided for corresponding references in the bibliography subsection.
----
+
 # Using the Files
 If you would like a more visual representation of the text, outside of reading .xml code, follow the steps below:
   1. Navigate to https://teipublisher.com/exist/apps/tei-publisher/index.html
