@@ -34,8 +34,14 @@ With the process established, it is ever prudent to turn towards disparities bet
 [^3]: L. Schøsler, "Scribal Variations: When are they Genealogically Relevant-and when are they to be considered as instances of 'mouvance'?" in _Studies in Stemmatology 2_, eds. Pieter van Reenen, August den Hollander and Margot van Mulken (Philadelphia: J. Benjamins, 2004): 207.
 [^4]: D. Appolon & C. Bélisle, "The Digital Fate of the Critical Apparatus" in _Digital Critical Editions: Topics in the Digital Humanities_, eds. Daniel Apollon, Claire Bélisle, and Philippe Régnier (Champaign, IL: University of Illinois Press, 2014), 106.
 # Historical Context
+The first question that comes to mind when considering the amount of manuscript witnesses, especially for an early medieval source, is why were there so many to begin with? While an obivous answer would be that it was a series of _capitula_ issued by Charlemagne and therefore people across the empire copied it down, yet this is a very baseline or foundational answer, with the reality being much more complex. To answer the question we must first establish what the _Admonito_ is and the context for its creation and then we can explore the reason why so many manuscripts exist for this text. 
 
+The _Admonito Generalis_ is 
+Why was reform necessary?
+The reason the _Admonito_ has so many extant witnesses relates directly back to the necessity of reform and the nature of the work. Once Charlemagne issued the _Admonito_, it became necessary for the _missi dominici_ or royal agents tasked with overseeing laws and practices in every region of the empire to have a copy of the _Admonito_ so they knew exactly what the eventual emperor desired.[^5]
+[^5]: placeholder
 # Scholarly Tradition
+
 
 # Bibliography
 
