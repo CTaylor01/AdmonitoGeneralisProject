@@ -34,16 +34,19 @@ With the process established, it is ever prudent to turn towards disparities bet
 [^3]: L. Schøsler, "Scribal Variations: When are they Genealogically Relevant-and when are they to be considered as instances of 'mouvance'?" in _Studies in Stemmatology 2_, eds. Pieter van Reenen, August den Hollander and Margot van Mulken (Philadelphia: J. Benjamins, 2004): 207.
 [^4]: D. Appolon & C. Bélisle, "The Digital Fate of the Critical Apparatus" in _Digital Critical Editions: Topics in the Digital Humanities_, eds. Daniel Apollon, Claire Bélisle, and Philippe Régnier (Champaign, IL: University of Illinois Press, 2014), 106.
 # Historical Context
-The first question that comes to mind when considering the amount of manuscript witnesses, especially for an early medieval source, is why were there so many to begin with? While an obivous answer would be that it was a series of _capitula_ issued by Charlemagne and therefore people across the empire copied it down, yet this is a very baseline or foundational answer, with the reality being much more complex. To answer the question we must first establish what the _Admonito_ is and the context for its creation and then we can explore the reason why so many manuscripts exist for this text. 
+The first question that comes to mind when considering the amount of manuscript witnesses, especially for an early medieval source, is why were there so many to begin with? While an obvious answer would be that it was a series of _capitula_ issued by Charlemagne and therefore people across the empire copied it down, yet this is a very baseline or foundational answer, with the reality being much more complex. To answer the question we must first establish what the _Admonito_ is and the context for its creation and then we can explore the reason why so many manuscripts exist for this text. 
 
-The _Admonito Generalis_ is 
+The _Admonito Generalis_ is primarily concerned with the correction of texts and rectifying corrupted texts. The latin used for liturgical service was of chief concern, as the center of the reform laid on ensuring that the laity could achieve eternal salvation, and the only way to achieve this was to pray in correct latin. Therefore, given the sheer importance of this text in the Carolingian mindset, for Marco Mostert is is shocking that even some scribal variation was allowed as shown through the surviving manuscripts.[^5] However important the saving of souls was, the chief interest of the _Admonito_ lay in the textual transmission of the faith.
 
 Why was reform necessary?
 
-The reason the _Admonito_ has so many extant witnesses relates directly back to the necessity of reform and the nature of the work. Once Charlemagne issued the _Admonito_, it became necessary for the _missi dominici_ or royal agents tasked with overseeing laws and practices in every region of the empire to have a copy of the _Admonito_ so they knew exactly what the eventual emperor desired.[^5]
-[^5]: placeholder
-# Scholarly Tradition
+The reason the _Admonito_ has so many extant witnesses relates directly back to the necessity of reform and the nature of the work. Once Charlemagne issued the _Admonito_, it became necessary for the _missi dominici_ or royal agents tasked with overseeing laws and practices in every region of the empire to have a copy of the _Admonito_ so they knew exactly what the eventual emperor desired.[^6] Therefore, scribes created a large amount of manuscripts in a relatively short amount of time to serve the _missi_ as they traveled across the extensive empire and to correct the books used for prayer.[^7] While only a fraction of full manuscripts survive, the plethora of fragments reveal the large amount of manuscripts that were created. As will be explored, scholars have frequently called the issuing of the _Admonito_ as the beginning or at the very least the codifying of the Carolingian _correctio_ movement. 
 
+[^5]: Marco Mostert, "'...but they pray badly using corrected books.': Errors in the early Carolingian copies of the Admonito Generalis, in _Religious Franks: Religion and Power in the Frankish Kingdoms: Studies in Honor of Mayke de Jong_, eds. Rob Meens, et. al. (Manchester: Manchester University Press, 2016), 118-119.
+[^6]: Peter Munz, _Life in the Age of Charlemagne_ (New York: Capricorn books, 1969), 67-68.
+[^7]: Marco Mostert, "'...but they pray badly using corrected books.'", 112-116.
+# Scholarly Tradition
+[Marco Mostert's chapter about scribal variations in such an important text: high literacy led scribes to take liberties with source matieral, scribes as author]
 
 # Bibliography
 
