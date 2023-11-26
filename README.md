@@ -49,6 +49,9 @@ The reason the _Admonito_ has so many extant witnesses relates directly back to 
 [^9]: Peter Munz, _Life in the Age of Charlemagne_ (New York: Capricorn books, 1969), 67-68.
 [^10]: Marco Mostert, "'...but they pray badly using corrected books.'", 112-116.
 # Scholarly Tradition
+The _Admonito Generalis_ has long served as the great separator for historians, it was the work that set the Carolingians apart from the rest of the early Medieval time period which was largely with respects to the _Admonito_'s credits as the beginning of the _correctio_ or Carolingian reform movement.
+[two paths of scholarship - manuscript studies and the monographs that deal with the _MGH_'s edition.]
+[more typical path of scholarship, use the _MGH_ edition to elaborate on methods, modes, and means of Carolingian authority, reform, religion, etc...]
 [Marco Mostert's chapter about scribal variations in such an important text: high literacy led scribes to take liberties with source matieral, scribes as author]
 
 # Bibliography
