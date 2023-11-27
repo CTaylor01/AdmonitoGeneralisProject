@@ -50,11 +50,20 @@ The reason the _Admonito_ has so many extant witnesses relates directly back to 
 [^10]: Peter Munz, _Life in the Age of Charlemagne_ (New York: Capricorn books, 1969), 67-68.
 [^11]: Marco Mostert, "'...but they pray badly using corrected books.'", 112-116.
 # Scholarly Tradition
-The _Admonito Generalis_ has long served as the great separator for historians, it was the work that set the Carolingians apart from the rest of the early Medieval time period which was largely with respects to the _Admonito_'s credits as the beginning of the _correctio_ or Carolingian reform movement.
-[two paths of scholarship - manuscript studies and the monographs that deal with the _MGH_'s edition.]
-[more typical path of scholarship, use the _MGH_ edition to elaborate on methods, modes, and means of Carolingian authority, reform, religion, etc...]
-[Marco Mostert's chapter about scribal variations in such an important text: high literacy led scribes to take liberties with source matieral, scribes as author]
+The _Admonito Generalis_ has long served as the great separator for historians, it was the work that set the Carolingians apart from the rest of the early Medieval time period which was largely with respects to the _Admonito_'s credits as the beginning of the _correctio_ or Carolingian reform movement. This reform movement, which some scholars have called the 'little r' renaissance, has largely served in this separation mechanism. It made the Carolingians unique and worthy of hyperspecialization which only relatively recently has been called into question.[^12] In line with this need to be unique, Carolingian scholars have primarily engaged in two avenues of approach towards the _Admonito_. The first, and most common, is reliance on the _MGH_ edition as the authoritative text and primary source for all things Carolingian. This is largely regarding those scholars who prioritize documents as the basis for inquiriy and completely representative of the extent of Carolingian scholarship.[^13] The second approach largely circumvents the _MGH_ and instead focuses on the manuscripts themselves as the basis for primary sources. This second approach allows scholars to engage in more broad or narrow scopes as well as a more diverse range of topics, such as handwriting or illumination, among others. Therefore, for the former approach, there have been three areas of Carolingian society that scholars use the _Admonito_ to further elucidate: authority, religion, and education. For the second approach, it is much more varied and diverse which is impossible to cover entirely but the attempt will be made. Thus, let us first look at the three areas and how scholars have used this text.
 
+For authority, the _Admonito_...
+
+For religion, the _Admonito_...
+
+As far as education is concerned, John J. Contreni's elaborations are key. For Contreni, the _Admonito_'s influence on education within the Carolingian empire cannot be overstated, as the _Admonito_ directly led to the production of texts which enhanced and spread medieval education.[^14]
+
+With one avenue of approach with respect to the _Admonito_ explored, let us now turn to the practice of manuscript scrutiny. As stated earlier, Carolingian scholars readily accept the _MGH_'s authority as the definition edition of primary sources pertaining to the Carolingian period. However, some scholars such as Marco Mostert readily bypass the edition to reach the manuscripts. Mostert's conclusions, which largely focus on the extreme presence of variations within the _Admonito_, center around literacy. Essentially, the reason so many variations persisted in a text as important as the _Admonito_ is primarily due to the high literacy of the scribes.[^15] Inadvertently, the very process of _correctio_ or correcting itself lended the scribes authority to correct the text which emphasized the process of correcting. 
+
+[^12]: placeholder
+[^13]: placeholder
+[^14]: placeholder
+[^15]: placeholder (sources about material history)
 # Bibliography
 
 # Credits
